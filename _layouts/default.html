@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+
+    <title>{{ site.name }}</title>
+
+    <meta name="author" content="{{ site.name }}">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="/static/js/jquery.js"></script>
+    <script src="/static/js/toc.js"></script>
+
+    <link rel="stylesheet" href="/static/css/hack.css">
+  </head>
+
+  <body class="hack">
+    <div class="main container">
+      {{ content }}
+    </div>
+  </body>
+
+  <script>
+    $(function() {
+      $('#toc').toc({
+        headers: 'h2, h3',
+        listType: 'ul',
+        noBackToTopLinks: true,
+        showSpeed: 0,
+        title: '',
+      })
+    });
+  </script>
+
+  {% include google-analytics.html %}
+</html>
