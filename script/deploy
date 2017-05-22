@@ -8,4 +8,7 @@ bundle exec jekyll build
 
 echo "==> Deploying…"
 cd _site
-now --name riff-tf
+now
+
+echo "==> Aliasing…"
+now alias
