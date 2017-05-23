@@ -10,8 +10,8 @@ introduction to playing Subtlety in Legion, you've come to the right place.
 I'll make a note of any changes to the guide and the date it was updated here if
 you want to come back in the future to check for changes.
 
-**Last updated: Monday, 15th April 2017 - Removed details about Anticipation bug
-due to it being fixed**
+**Last updated: Tuesday 23rd May 2017 - Added details about the Shadow
+Dance/Stealth pre-pull**
 
 <div id="toc"></div>
 
@@ -166,8 +166,13 @@ For your flask you should always use Flask of the Seventh Demon.
 ### Pre-Pull
 
 - Before the pull timer, Symbols of Death
-- 3 seconds on the pull timer, Symbols of Death
-- 1 second on the pull timer, Potion
+- 5 seconds on the pull timer, Symbols of Death, and then come out of stealth
+- 1 second on the pull timer, use Shadow Dance, Stealth, and Potion
+  macro<sup>2</sup>
+
+2: See [macros](#macros) for the Shadow Dance, Stealth, and Potion macro. More
+details about this can be found in the [FAQ
+section](#frequently-asked-questions).
 
 ### Pull
 
@@ -300,6 +305,15 @@ Shadow Dance &rarr; Symbols of Death &rarr; Shuriken Storm
 
 You can also create copies that use `/cast Vanish` instead of Shadow Dance.
 
+Shadow Dance &rarr; Stealth &rarr; Potion
+
+    #showtooltip
+    /cast Shadow Dance
+    /cast Stealth
+    /use Potion of Prolonged Power
+
+You can replace `Potion of Prolonged Power` with your potion of choice.
+
 ## Frequently Asked Questions
 
 ### How Does Finality Work?
@@ -315,6 +329,18 @@ the finisher. It is 4% increased damage per combo point. So for a 5 combo point
 finisher you would generate a 20% increased damage Finality buff, or if you're
 talented into Deeper Stratagem and finish with 6 combo points you would generate
 a 24% increased damage buff.
+
+### Shadow Dance/Stealth Pre-Pull
+
+There is a "bug"/"feature" where Stealth gets "protected" by Shadow Dance. This
+means you can use Shadow Dance to delay Subterfuge from starting. The advantage
+of this pre-pull is that you're able to start the encounter with Shadow Dance
+up, which results in no loss of cool down reduction.
+
+Due to recent changes you need to cast Shadow Dance before Stealth to abuse this
+during a pull. You must keep in mind that you cannot cast Stealth if you are in
+combat. So you have to make sure you use it prior to the actual pull. You need
+to be **out of stealth** before using the macro.
 
 ## Summary
 
