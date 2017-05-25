@@ -5,8 +5,10 @@ kramdown:
 
 highlighter: rouge
 
-name: "Riff's Guide to Subtlety Rogue"
-description: "Riff's Guide to Subtlety Rogue"
+permalink: /guide/:title
+
+name: "Rogue PVE DPS Guides"
+description: "Rogue PVE DPS Guides"
 url: https://riff.tf
 
 exclude: [ 'Gemfile', 'Gemfile.lock', 'README.md', 'script' ]
