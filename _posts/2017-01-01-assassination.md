@@ -35,8 +35,8 @@ and the utility talents at level 60 and 75.
 - Level 15: Master Poisoner
 - Level 30: Nightstalker or Subterfuge
 - Level 45: Vigor
-- Level 60: Per Choice
-- Level 75: Per Choice
+- Level 60: Optional
+- Level 75: Optional
 - Level 90: Agonizing Poison or Alacrity<sup>1</sup>
 - Level 100: Venom Rush
 
