@@ -159,6 +159,10 @@ For your flask you should always use Flask of the Seventh Demon.
 
 ## Rotation
 
+### Pre-Pull
+
+- Use your Potion
+
 ### Pull
 
 #### Without Mantle of the Master Assassin
@@ -279,7 +283,7 @@ effectiveness of your Agonizing Poison by 5% per combo point used (capping at 5
 combo points if Deeper Stratagem is taken). Abilities affected by the poison
 damage increase include Poison Bomb, Deadly Poison, Wound Poison, and Kingsbane.
 
-### Vanish bug and Nightstalker
+### Vanish Bug and Nightstalker
 
 There is a "bug"/"feature" where Vanish gets "protected" for a short period.
 This means Vanish will not break even if you deal damage very quickly after
@@ -293,3 +297,8 @@ This guide is written to help those who want to start playing Assassination
 Rogue or get better at it. If you feel some part of the guide can be improved
 send an email to [riffeu@gmail.com](mailto:riffeu@gmail.com) and explain what
 you feel can be improved, and why.
+
+## Credit
+
+- wEak
+- Alaizabel
