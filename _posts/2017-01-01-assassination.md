@@ -13,7 +13,7 @@ place.
 I'll make a note of any changes to the guide and the date it was updated here if
 you want to come back in the future to check for changes.
 
-**Last updated: Tuesday 25th May 2017 - Update opener**
+**Last updated: Sunday 28th May 2017 - Clarification for SoT**
 
 <div id="toc"></div>
 
@@ -277,11 +277,7 @@ Surge of Toxins is pretty simple to understand once it's been explained.
 
 When you use a finishing move you will apply a debuff to that target called
 Surge of Toxins. Surge of Toxins increases poison damage you deal to the target
-by 2% per combo point used (capping at 5 combo points if Deeper Stratagem is
-taken). If you have taken Agonizing Poison, Surge of Toxins also increases the
-effectiveness of your Agonizing Poison by 5% per combo point used (capping at 5
-combo points if Deeper Stratagem is taken). Abilities affected by the poison
-damage increase include Poison Bomb, Deadly Poison, Wound Poison, and Kingsbane.
+by 2% per combo point used (capping at 10% when consuming 6 combo points via Deeper Stratagem). If you have taken Agonizing Poison, Surge of Toxins also increases the effectiveness of your Agonizing Poison by 5% per combo point used (capping at 25% when consuming 6 combo points via Deeper Stratagem). Abilities affected by the poison damage increase include Poison Bomb, Deadly Poison, Wound Poison, and Kingsbane.
 
 ### Vanish Bug and Nightstalker
 
