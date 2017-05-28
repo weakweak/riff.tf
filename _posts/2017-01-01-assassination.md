@@ -15,7 +15,7 @@ you want to come back in the future to check for changes.
 
 **Last updated: Sunday 28th May 2017 - Clarification for SoT**
 
-## Credit
+## Credits
 
 - wEak
 - Alaizabel
