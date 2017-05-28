@@ -7,8 +7,8 @@ highlighter: rouge
 
 permalink: /guide/:title
 
-name: "Rogue PVE DPS Guides"
-description: "Rogue PVE DPS Guides"
+name: "Rogue PVE Guides"
+description: "Rogue PVE Guides"
 url: https://riff.tf
 
 exclude: [ 'Gemfile', 'Gemfile.lock', 'README.md', 'script' ]
