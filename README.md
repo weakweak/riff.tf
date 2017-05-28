@@ -1,7 +1,9 @@
 # riff.tf
 
-Rogue PVE guides written for the community, by the community. If you wish to
-contribute to the guides, please ask in the Ravenholdt Discord class channels.
+Rogue PVE guides written for the community, by the community.
+
+If you wish to contribute to the guides, please ask in the Ravenholdt Discord
+class channels.
 
 ## Development
 
