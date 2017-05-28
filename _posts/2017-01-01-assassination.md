@@ -15,6 +15,11 @@ you want to come back in the future to check for changes.
 
 **Last updated: Sunday 28th May 2017 - Clarification for SoT**
 
+## Credit
+
+- wEak
+- Alaizabel
+
 <div id="toc"></div>
 
 ## Introduction
@@ -293,8 +298,3 @@ This guide is written to help those who want to start playing Assassination
 Rogue or get better at it. If you feel some part of the guide can be improved
 send an email to [riffeu@gmail.com](mailto:riffeu@gmail.com) and explain what
 you feel can be improved, and why.
-
-## Credit
-
-- wEak
-- Alaizabel
