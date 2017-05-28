@@ -15,12 +15,12 @@ you want to come back in the future to check for changes.
 
 **Last updated: Sunday 28th May 2017 - Clarification for SoT**
 
+<div id="toc"></div>
+
 ## Credits
 
 - wEak
 - Alaizabel
-
-<div id="toc"></div>
 
 ## Introduction
 
