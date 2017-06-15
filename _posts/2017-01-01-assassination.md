@@ -6,14 +6,17 @@ permalink: /guide/assassination/index.html
 
 # Guide to Assassination Rogue
 
-Welcome to the guide for Assassination Rogue in 7.2. If you're looking for a
+Welcome to the guide for Assassination Rogue in 7.2.5. If you're looking for a
 good introduction to playing Assassination in Legion, you've come to the right
 place.
 
 I'll make a note of any changes to the guide and the date it was updated here if
 you want to come back in the future to check for changes.
 
-**Last updated: Sunday 28th May 2017 - Clarification for SoT**
+**Last updated: Thursday 15th June 2017 - Poison Bombing the meters**
+
+Please note things are subject to change in the early days of patch 7.2.5 when
+things are discovered and hot fixes happen.
 
 <div id="toc"></div>
 
@@ -34,19 +37,18 @@ relative power level in comparison to the other two specs.
 
 ## Talents
 
-Assassination talents are mostly cookie cutter except for the level 90 talents,
-and the utility talents at level 60 and 75.
+Assassination talents are in great flux at the moment. There are a lot of
+different combinations yielding results close to each other. You may choose one
+over another based on preference or simulation result if you are looking to
+gain the maximum out of your character.
 
-- Level 15: Master Poisoner
-- Level 30: Nightstalker or Subterfuge
-- Level 45: Vigor
+- Level 15: Master Poisoner or Elaborate Planning
+- Level 30: Subterfuge
+- Level 45: Deeper Stratagem or Vigor
 - Level 60: Optional
 - Level 75: Optional
-- Level 90: Agonizing Poison or Alacrity<sup>1</sup>
+- Level 90: Toxic Blade
 - Level 100: Venom Rush
-
-1: Alacrity is generally ran instead of agonizing poison when you have a lot
-of targets. 5 mans are typically ran with alacrity.
 
 ## Artifact
 
@@ -55,9 +57,9 @@ breed assassin Garona.
 
 ### Traits
 
-At this point in the expansion, a lot of characters will be at 25 artifact
-knowledge or at least close to it. So filling out 34 traits is fairly quick, and
-you'll have the 3 golden traits easily.
+At this point in the expansion, a lot of characters will be at 40 artifact
+knowledge or at least close to it. So filling out traits is fairly quick, and
+you'll have all the golden traits easily.
 
 If you do require the routes you should take, you can follow these routes in
 order.
@@ -90,30 +92,35 @@ Once you've got the 4th gold trait you can fill out 4/4 in the other powerful
 traits.
 
 - Master Assassin
-- Toxic Blades
-- Balanced Blades
-- Gushing Wound
-- Poison Knives
 - Master Alchemist
+- Toxic Blades
+- Gushing Wound
+- Balanced Blades
 - Serrated Edge
+- Poison Knives
 
 Then 4/4 in the less useful traits
 
 - Shadow Walker
 - Fade into Shadows
 
+Then finally.
+
+- Concordance of the Legionfall
+
 ### Relics
 
 - Master Assassin
-- Toxic Blades
-- Balanced Blades
-- Gushing Wound
-- Poison Knives
 - Master Alchemist
+- Toxic Blades
+- Gushing Wound
+- Strangler
+- Balanced Blades
 - Serrated Edge
 
 You should always run a simulation of your character to check if a higher item
-level relic might be better than your current relic.
+level relic might be better than your current relic. These aren't one-size fits
+all results.
 
 ## Gearing &amp; Stats
 
@@ -156,17 +163,22 @@ For your flask you should always use Flask of the Seventh Demon.
 #### Legendaries
 
 - Mantle of the Master Assassin
-- Duskwalker's Footpads
 - Zoldyck Family Training Shackles
+- Duskwalker's Footpads
 - Insignia of Ravenholdt
 - Cinidaria, the Symbiote
 - The Dreadlord's Deceit
+
+**New Legendaries**
+
+- The Empty Crown
+- Soul of the Shadowblade
 
 ## Rotation
 
 ### Pre-Pull
 
-- Use your Potion
+- Potion
 
 ### Pull
 
@@ -179,6 +191,7 @@ For your flask you should always use Flask of the Seventh Demon.
 - Vanish
 - Rupture
 - Vendetta
+- Toxic Blade
 - Kingsbane
 - Mutilate till 4-5 combo points
 - Envenom
@@ -188,12 +201,12 @@ For your flask you should always use Flask of the Seventh Demon.
 - Garrote
 - Mutilate
 - Rupture
-- Mutilate
 - Vendetta
-- Envenom
+- Toxic Blade
 - Kingsbane
-- Mutilate
+- Envenom
 - Vanish
+- Mutilate
 - Envenom
 - Mutilate
 - Envenom
@@ -204,24 +217,25 @@ For your flask you should always use Flask of the Seventh Demon.
 
 - Rupture, depending on combo points but at 5 combo points refresh with 7.2
   seconds or less remaining
-- Garrote, refresh with 5.4 seconds or less remaining<sup>2</sup>
+- Garrote, refresh with 5.4 seconds or less remaining<sup>1</sup>
 
-2: You do not want to overwrite a Subterfuge empowered Garrote until it
+1: You do not want to overwrite a Subterfuge empowered Garrote until it
 has expired.
 
 #### Building combo points
 
 - Mutilate until 4 or more combo points
+- Fan of Knives, if there are 3 or more targets
 - Garrote when your current Garrote is below threshold or there is an additional
   target.
 
 #### At 4-5 Combo Points
 
 - Rupture, refresh with 7.2 seconds remaining at 5 combo points, or 6
-  seconds remaining at 4 combo points<sup>3</sup>
+  seconds remaining at 4 combo points<sup>2</sup>
 - Envenom 
 
-3: You do not want to overwrite a Nightstalker empowered Rupture or Garrote
+2: You do not want to overwrite a Nightstalker empowered Rupture or Garrote
 until it has expired.
 
 ### Cool Downs
@@ -231,13 +245,17 @@ until it has expired.
 - Use on cool down
 - Keep Envenom up during Kingsbane
 
+#### Toxic Blade
+
+- Use on cool down
+
 #### Vendetta
 
-- Use on cool down and when you are missing more than 80 energy
+- Use on cool down and when you are missing more than 80 energy outside opener
 
 #### Vanish
 
-- Pair with Kingsbane and/or Vendetta
+- Pair with Vendetta
 
 ### Cleave
 
@@ -263,39 +281,14 @@ Garrote.
 
 ### Macros
 
-There aren't really any significant macros for Assassination. There is a macro
-you can use to help abuse the Nightstalker Bug.
-
-Nightstalker Vanish Help
-
-    #showtooltip
-    /cast Vanish
-    /stopattack
-    /cast "spell you want to use"
-    /stopattack
+There aren't really any significant macros for Assassination.
 	
 ## Frequently Asked Questions
 
-### How Does Surge of Toxins Work?
+### TB on cool down, really?
 
-Surge of Toxins is pretty simple to understand once it's been explained.
-
-When you use a finishing move you will apply a debuff to that target called
-Surge of Toxins. Surge of Toxins increases poison damage you deal to the target
-by 2% per combo point used (capping at 10% when consuming 6 combo points via
-Deeper Stratagem). If you have taken Agonizing Poison, Surge of Toxins also
-increases the effectiveness of your Agonizing Poison by 5% per combo point used
-(capping at 25% when consuming 6 combo points via Deeper Stratagem). Abilities
-affected by the poison damage increase include Poison Bomb, Deadly Poison, Wound
-Poison, and Kingsbane.
-
-### Vanish Bug and Nightstalker
-
-There is a "bug"/"feature" where Vanish gets "protected" for a short period.
-This means Vanish will not break even if you deal damage very quickly after
-casting it. We can take advantage of this by casting a spell right after
-vanishing and still be in stealth. This way we can effectively get two
-Nightstalker empowered spells out with a single Vanish.
+Patch is still very new and so is the research put into it. According to preliminary
+simulations it is best used on cool down.
 
 ## Summary
 
