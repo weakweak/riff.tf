@@ -16,7 +16,8 @@ you want to come back in the future to check for changes.
 **Last updated: Thursday 15th June 2017 - Poison Bombing the meters**
 
 Please note things are subject to change in the early days of patch 7.2.5 when
-things are discovered and hot fixes happen.
+things are discovered and hot fixes happen. Also both talent and opener sections
+are assuming Tomb of Sargeras progression and thus t20 being worn.
 
 <div id="toc"></div>
 
@@ -208,6 +209,7 @@ For your flask you should always use Flask of the Seventh Demon.
 - Vanish
 - Mutilate
 - Envenom
+- Garrote
 - Mutilate
 - Envenom
 - Mutilate
@@ -217,7 +219,8 @@ For your flask you should always use Flask of the Seventh Demon.
 
 - Rupture, depending on combo points but at 5 combo points refresh with 7.2
   seconds or less remaining
-- Garrote, refresh with 5.4 seconds or less remaining<sup>1</sup>
+- Garrote, refresh with 5.4 seconds or less remaining and during vanish
+  window when you have Subterfuge up<sup>1</sup>
 
 1: You do not want to overwrite a Subterfuge empowered Garrote until it
 has expired.
