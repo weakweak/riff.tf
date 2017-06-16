@@ -13,11 +13,12 @@ place.
 I'll make a note of any changes to the guide and the date it was updated here if
 you want to come back in the future to check for changes.
 
-**Last updated: Thursday 15th June 2017 - Poison Bombing the meters**
+**Last updated: Friday 16th June 2017 - Poison Bombing the meters**
 
 Please note things are subject to change in the early days of patch 7.2.5 when
-things are discovered and hot fixes happen. Also both talent and opener sections
-are assuming Tomb of Sargeras progression and thus t20 being worn.
+things are discovered and hot fixes happen. I also did not include any specific
+opener for tier 19 and Mantle as people have not really settled on one and you
+will be wanting to wear tier 20 as soon as possible anways.
 
 <div id="toc"></div>
 
@@ -42,6 +43,21 @@ Assassination talents are in great flux at the moment. There are a lot of
 different combinations yielding results close to each other. You may choose one
 over another based on preference or simulation result if you are looking to
 gain the maximum out of your character.
+
+These talents are subject to change due to discoveries and hot fixes. This is
+only a simple outline for now.
+
+### Tier 19 (4 Piece)
+
+- Level 15: Master Poisoner or Elaborate Planning
+- Level 30: Nightstalker
+- Level 45: Deeper Stratagem or Vigor
+- Level 60: Optional
+- Level 75: Optional
+- Level 90: Toxic Blade
+- Level 100: Venom Rush
+
+### Tier 20 (4 Piece)
 
 - Level 15: Master Poisoner or Elaborate Planning
 - Level 30: Subterfuge
@@ -166,14 +182,11 @@ For your flask you should always use Flask of the Seventh Demon.
 - Mantle of the Master Assassin
 - Zoldyck Family Training Shackles
 - Duskwalker's Footpads
+- The Empty Crown
 - Insignia of Ravenholdt
+- Soul of the Shadowblade
 - Cinidaria, the Symbiote
 - The Dreadlord's Deceit
-
-**New Legendaries**
-
-- The Empty Crown
-- Soul of the Shadowblade
 
 ## Rotation
 
@@ -183,7 +196,7 @@ For your flask you should always use Flask of the Seventh Demon.
 
 ### Pull
 
-#### Without Mantle of the Master Assassin
+#### Without Mantle of the Master Assassin Tier 19 (4 Piece)
 
 - Garrote
 - Mutilate
@@ -197,7 +210,20 @@ For your flask you should always use Flask of the Seventh Demon.
 - Mutilate till 4-5 combo points
 - Envenom
 
-#### With Mantle of the Master Assassin
+#### Without Mantle of the Master Assassin Tier 20 (4 Piece)
+
+- Garrote
+- Mutilate till 4 to 5 combo points
+- Rupture
+- Mutilate till 4 to 5 combo points
+- Envenom
+- Vendetta
+- Toxic Blade
+- Kingsbane
+- Proceed with normal rotation
+- Vanish when you can refresh Garrote with pandemic
+
+#### With Mantle of the Master Assassin Tier 19 or 20 (4 Piece)
 
 - Garrote
 - Mutilate
