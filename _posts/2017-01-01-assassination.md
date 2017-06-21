@@ -294,7 +294,10 @@ simulations it is best used on cool down.
 
 ### But my t19 NS opener
 
-There is no set opener for Tier 19 (4 Piece) as it is soon obsolete.
+There is no set opener for Tier 19 (4 Piece) for a few reasons:
+- People are not set on anything particular
+- There isn't any real research being put into it.
+- Subterfuge is superior with Tier 20.
 
 ## Summary
 
