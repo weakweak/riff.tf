@@ -13,7 +13,7 @@ place.
 I'll make a note of any changes to the guide and the date it was updated here if
 you want to come back in the future to check for changes.
 
-**Last updated: Friday 16th June 2017 - Poison Bombing the meters**
+**Last updated: Wednesday 21st June 2017 - Subterfuge time**
 
 Please note things are subject to change in the early days of patch 7.2.5 when
 things are discovered and hot fixes happen. I also did not include any specific
@@ -46,16 +46,6 @@ gain the maximum out of your character.
 
 These talents are subject to change due to discoveries and hot fixes. This is
 only a simple outline for now.
-
-### Tier 19 (4 Piece)
-
-- Level 15: Master Poisoner or Elaborate Planning
-- Level 30: Nightstalker
-- Level 45: Deeper Stratagem or Vigor
-- Level 60: Optional
-- Level 75: Optional
-- Level 90: Toxic Blade
-- Level 100: Venom Rush
 
 ### Tier 20 (4 Piece)
 
@@ -162,9 +152,6 @@ For stats you should be aiming for the following:
 - Versatility
 - Haste
 
-Certain items may change which stats you will want. For example Mantle of the
-Master Assassin will bring Versatility ahead of Critical Strike.
-
 **When in doubt, run a simulation for your character and the item(s) in
 question.**
 
@@ -196,20 +183,6 @@ For your flask you should always use Flask of the Seventh Demon.
 
 ### Pull
 
-#### Without Mantle of the Master Assassin Tier 19 (4 Piece)
-
-- Garrote
-- Mutilate
-- Rupture
-- Mutilate till 5 combo points
-- Vanish
-- Rupture
-- Vendetta
-- Toxic Blade
-- Kingsbane
-- Mutilate till 4-5 combo points
-- Envenom
-
 #### Without Mantle of the Master Assassin Tier 20 (4 Piece)
 
 - Garrote
@@ -223,7 +196,7 @@ For your flask you should always use Flask of the Seventh Demon.
 - Proceed with normal rotation
 - Vanish when you can refresh Garrote with pandemic
 
-#### With Mantle of the Master Assassin Tier 19 or 20 (4 Piece)
+#### With Mantle of the Master Assassin Tier 20 (4 Piece)
 
 - Garrote
 - Mutilate
@@ -318,6 +291,10 @@ There aren't really any significant macros for Assassination.
 
 Patch is still very new and so is the research put into it. According to preliminary
 simulations it is best used on cool down.
+
+### But my t19 NS opener
+
+There is no set opener for Tier 19 (4 Piece) as it is soon obsolete.
 
 ## Summary
 
