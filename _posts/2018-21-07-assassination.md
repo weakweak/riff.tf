@@ -13,7 +13,7 @@ to the right place.
 I'll make a note of any changes to the guide and the date it was updated here if
 you want to come back in the future to check for changes.
 
-**Last updated: Friday 21st July 2018 - Poison Bombing no more**
+**Last updated: Saturday, 21st July 2018 - Poison Bombing no more**
 
 Please note things are subject to change in the early days of patch 8.0 when
 things are discovered, hot fixes happen and balance is under way.
@@ -42,7 +42,7 @@ only a simple outline for now.
 ### Single Target
 
 - Level 15: Master Poisoner or Elaborate Planning or Blindside
-- Level 30: Nightstalker or Subterfuge or Master Assassin
+- Level 30: Subterfuge or Master Assassin
 - Level 45: Vigor
 - Level 60: Optional
 - Level 75: Optional
@@ -113,10 +113,11 @@ For stats you should be aiming for the following:
 ### Multi Target
 
 - Agility
+- Haste until a point
 - Critical Strike
 - Mastery
 - Versatility
-- Haste
+- Haste after the point
 
 **When in doubt, run a simulation for your character and the item(s) in
 question.**
@@ -138,11 +139,10 @@ For your flask you should always use Flask of the Currents.
 
 ### Pull
 
-#### ----sadasd
-
 - Garrote
 - Mutilate till 4 combo points
 - Rupture
+- Vanish when talented into Master Assassin
 - Mutilate 
 - Toxic Blade
 - Envenom
@@ -150,7 +150,7 @@ For your flask you should always use Flask of the Currents.
 - Envenom
 - Mutilate till 4-5 combo points
 - Envenom
-- Vanish when Garrote hits 5.4 seconds or less
+- Vanish when Garrote hits 5.4 seconds or less when talented into subterfuge
 
 ### Priorities
 
