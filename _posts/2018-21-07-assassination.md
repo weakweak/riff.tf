@@ -59,6 +59,9 @@ only a simple outline for now.
 - Level 90: Toxic Blade
 - Level 100: Criomson Tempest
 
+You should always run a simulation of your character to check which talents are
+best for you.
+
 ### Traits
 
 Under construction.
@@ -74,6 +77,7 @@ Rough order.
 - Shrouded Suffocation: Garrote cast from Stealth generates 2 additional Combo Points and deals additional damage.
 - Scent of Blood: Rupture increases your Agility. You may gain this benefit for each enemy suffering from your Rupture.
 - Fan of Blades: Fan of Knives' radius is increased to 15 yds and damage is increased if it hits at least 3 targets.
+- Sharpened Blades Your autoattacks increase the damage of your next Shuriken Toss or Poisoned Knife by, stacking up to 40 times.
 
 ### Multi Target
 
@@ -84,6 +88,7 @@ Rough order.
 - Poisoned Wire: Garrote increases the critical strike rating of your next Mutilate.
 - Contaminant: Mutilate has a 10% chance to apply additional Deadly Poison, and does additional damage.
 - Double Dose: When Mutilate applies Lethal poison with both daggers, it poisons the target for an additional damage.
+- Sharpened Blades Your autoattacks increase the damage of your next Shuriken Toss or Poisoned Knife by, stacking up to 40 times.
 
 ## Gearing &amp; Stats
 
