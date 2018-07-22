@@ -13,7 +13,7 @@ to the right place.
 I'll make a note of any changes to the guide and the date it was updated here if
 you want to come back in the future to check for changes.
 
-**Last updated: Saturday, 21st July 2018 - Poison Bombing no more**
+**Last updated: Saturday, 22nd July 2018 - Poison Bombing no more**
 
 Please note things are subject to change in the early days of patch 8.0 when
 things are discovered, hot fixes happen and balance is under way.
@@ -62,9 +62,47 @@ only a simple outline for now.
 You should always run a simulation of your character to check which talents are
 best for you.
 
-### Traits
+## Gearing &amp; Stats
 
-Under construction.
+Gearing in Battle for Azeroth should be more straight forward. Blizzard is
+trying to make item level always be the decidint factor and limit your ways
+of obtaining loot by having only personal loot, and not allowing trading of
+all pieces.  We still have our prefered stats, but they should not be as
+decicive as in legion.
+
+"Stat Weights," is a term you might have heard many times. What is actually
+being discussed, is **scale factors**, because they usually change the moment
+you change a piece of equipment. This is why we recommend that you sim your
+character to compare items rather than relying on **weights**.
+
+For stats you should be aiming for the following:
+
+### Single Target
+
+- Agility
+- Haste
+- Critical Strike
+- Mastery
+- Versatility
+
+### Multi Target
+
+- Agility
+- Haste until a point
+- Critical Strike
+- Mastery
+- Versatility
+- Haste after the point
+
+For your food buff while raiding you should use the primary stat Feast. If
+you're unable to use a Feast, the food for the secondary stat that you're scale
+factors says is highest.
+
+For potions you should use Potion of the Prolonged Power in all situations.
+
+For your flask you should always use Flask of the Seventh Demon.
+
+### Traits
 
 Rough order.
 
@@ -90,55 +128,14 @@ Rough order.
 - Double Dose: When Mutilate applies Lethal poison with both daggers, it poisons the target for an additional damage.
 - Sharpened Blades Your autoattacks increase the damage of your next Shuriken Toss or Poisoned Knife by, stacking up to 40 times.
 
-## Gearing &amp; Stats
-
-Gearing in Battle for Azeroth has been moved into "Item level is king".
-We still have our prefered stats, but a higher item level item should beat a
-lower item level most of the time.
-
-When in doubt, you should run simulations of your character to compare the item
-or multiple items.
-
-You may also be familiar with the term **stat weights**, this term is complete
-bullshit. For a start it's **scale factors**, and secondly your scale factors
-will become out of date whenever you equip a new item. It's always better to run
-a simulation of your character to compare items to see if it's an upgrade. This
-excludes trinkets as some times they're not modelled correctly in simulations.
-
-For stats you should be aiming for the following:
-
-### Single Target
-
-- Agility
-- Haste
-- Critical Strike
-- Mastery
-- Versatility
-
-### Multi Target
-
-- Agility
-- Haste until a point
-- Critical Strike
-- Mastery
-- Versatility
-- Haste after the point
-
 **When in doubt, run a simulation for your character and the item(s) in
 question.**
-
-For your food buff while raiding you should use the primary stat Feast. If
-you're unable to use a Feast, the food for the secondary stat that you're scale
-factors says is highest.
-
-For potions you should use Battle Potion of Agility.
-
-For your flask you should always use Flask of the Currents.
 
 ## Rotation
 
 ### Pre-Pull
 
+- 18 seconds on the pull timer, Marked for Death when talented
 - Potion
 - Vendetta
 
@@ -157,24 +154,15 @@ For your flask you should always use Flask of the Currents.
 - Envenom
 - Vanish when Garrote hits 5.4 seconds or less when talented into subterfuge
 
-### Priorities
+### Cool Downs
 
-- Rupture, depending on combo points but at 5 combo points refresh with 7.2
-  seconds or less remaining
-- Garrote, refresh with 5.4 seconds or less remaining and during vanish
-  window when you have Subterfuge up<sup>1</sup>
+- Marked for Death on cool down at low combo points unless you can quickly reset
+it via a dying mob.
+- Toxic Blade on cool down
+- Vendetta on cool down
+- Vanish paired up with vendetta
 
-1: You do not want to overwrite a Subterfuge empowered Garrote until it
-has expired after vanish.
-
-#### Building combo points
-
-- Mutilate until 4 or more combo points
-- Fan of Knives, if there are 3 or more targets
-- Garrote when your current Garrote is below threshold or there is an additional
-  target.
-
-#### At 4-5 Combo Points
+### At 4-5 Combo Points or 5-6 Combo Points with Deeper Stratagem
 
 - Rupture, refresh with 7.2 seconds remaining at 5 combo points, or 6
   seconds remaining at 4 combo points<sup>2</sup>
@@ -183,23 +171,12 @@ has expired after vanish.
 2: You do not want to overwrite a Nightstalker empowered Rupture or Garrote
 until it has expired.
 
-### Cool Downs
+### Building combo points
 
-#### Marked for Death
-
-- Use on cool down unless you can quickly reset it via a dying mob.
-
-#### Toxic Blade
-
-- Use on cool down
-
-#### Vendetta
-
-- Use on cool down and when you are missing more than 80 energy outside opener
-
-#### Vanish
-
-- Pair with Vendetta
+- Garrote when your current Garrote is below 5.4 or there is an additional
+  target.
+- Mutilate
+- Fan of Knives, if there are 3 or more targets
 
 ### Cleave
 
@@ -216,7 +193,6 @@ look into using Weak Auras and/or an energy bar AddOn.
 ### Weak Auras
 
 You can find a number of Weak Auras available on [wago.io](https://wago.io).
-Below are links to a set of Rogue Weak Auras.
 
 ### Macros
 
