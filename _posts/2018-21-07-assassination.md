@@ -13,7 +13,7 @@ to the right place.
 I'll make a note of any changes to the guide and the date it was updated here if
 you want to come back in the future to check for changes.
 
-**Last updated: Saturday, 22nd July 2018 - Poison Bombing no more**
+**Last updated: Friday, 27th july 2018 -Poison Bombing no more**
 
 Please note things are subject to change in the early days of patch 8.0 when
 things are discovered, hot fixes happen and balance is under way.
@@ -53,7 +53,7 @@ only a simple outline for now.
 
 - Level 15: Master Poisoner or Elaborate Planning
 - Level 30: Nightstalker or Subterfuge
-- Level 45: Vigor or Marked for Death
+- Level 45: Vigor or Deeper Stratagem or Marked for Death
 - Level 60: Optional
 - Level 75: Optional
 - Level 90: Toxic Blade
@@ -203,6 +203,11 @@ There aren't really any significant macros for Assassination.
 ### TB on cool down, really?
 
 On cool down
+
+### Haste break point 25%?
+
+No. There is no magic number. There is no break point. There is just what sim tells
+you to get.
 
 ## Summary
 
